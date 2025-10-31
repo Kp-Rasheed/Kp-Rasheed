@@ -23,22 +23,17 @@ I’m a **Full-Stack Developer** passionate about building **smart, data-driven,
 #### 💾 Backend
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FCDC00?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### 🧩 Tools & Cloud
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -70,12 +65,11 @@ I’m a **Full-Stack Developer** passionate about building **smart, data-driven,
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/rasheedkp" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>
-  <a href="https://github.com/rasheedkp" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/></a>
-  <a href="https://instagram.com/rasheedkp" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40"/></a>
-  <a href="https://facebook.com/rasheedkp" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" width="40"/></a>
-  <a href="mailto:rasheedkp@example.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/></a>
-  <a href="tel:+91XXXXXXXXXX"><img src="https://cdn-icons-png.flaticon.com/512/597/597177.png" width="40"/></a>
+  <a href="www.linkedin.com/in/mohammed-rasheed-kp" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>
+  <a href="https://github.com/Kp-Rasheed/Kp-Rasheed" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/></a>
+  <a href="https://www.instagram.com/x._alchemist_.x?igsh=MWg2N3J4MWdlNmRpdg==" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40"/></a>
+  <a href="mailto:shazrasheed5@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/></a>
+  <a href="tel:+919744756376"><img src="https://cdn-icons-png.flaticon.com/512/597/597177.png" width="40"/></a>
 </p>
 
 ---
